@@ -1,5 +1,3 @@
-#/usr/bin/python
-
 # this is going to be an attempt at a text adventure
 
 import ConfigParser
